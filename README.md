@@ -1,1 +1,1 @@
-# guess-numbers-js
+# guessing-numbers-js
